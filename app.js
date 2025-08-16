@@ -40,6 +40,21 @@ function sortearAmigo(){
     //Mostramos en pantalla el resultado
     let respuesta = document.getElementById("resultado");
     respuesta.innerHTML = `Tu amigo secreto es ${nombreAmigoSecreto}`;
+    //Mostrar el boton de reiniciar 
+    document.getElementById("btnReiniciar").style.display = "flex";
+}
+
+function reiniciarSorteo(){
+    //Limpiamos array
+    amigos = [];
+    //Limpiamos la lista
+    document.getElementById("listaAmigos").innerHTML = "";
+    //Se limpia el resultado
+    document.getElementById("resultado").innerHTML = "";
+    limpiarCaja();
+
+    //Ocultar el boton de reiniciar
+    document.getElementById("btnReiniciar").style.display = "none";
 }
 
 function limpiarCaja(){
