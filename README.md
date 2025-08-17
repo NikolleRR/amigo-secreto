@@ -1,6 +1,6 @@
 # 🎁 Amigo Secreto
 
-Aplicación web simple para realizar el sorteo de el juego *Amigo Secreto* de forma rápida y divertida.
+Aplicación web para realizar el sorteo del juego *Amigo Secreto* de forma rápida y divertida.
 
 ## 📌 Descripción
 
@@ -34,11 +34,7 @@ Esta aplicación permite:
 
 ## 🎥 Vista en acción
 
-_Agregar aquí un GIF o video corto del uso de la app._
-
-![Demo GIF](ruta/a/tu/demo.gif)
-
-O enlace a video: [Ver en YouTube](URL-del-video)
+![Demo del sorteo](assets/gif-Amigo-Secreto.gif)
 
 ## 🛠️ Tecnologías usadas
 
