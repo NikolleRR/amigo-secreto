@@ -47,4 +47,4 @@ Esta aplicación permite:
 
 1. Clona este repositorio:
    ```bash
-   git clone URL-DEL-REPOSITORIO
+   git clone https://github.com/NikolleRR/amigo-secreto.git
