@@ -1,6 +1,6 @@
 # 🎁 Amigo Secreto
 
-Aplicación web simple para realizar el sorteo de *Amigo Secreto* de forma rápida y divertida.
+Aplicación web simple para realizar el sorteo de el juego *Amigo Secreto* de forma rápida y divertida.
 
 ## 📌 Descripción
 
@@ -9,7 +9,6 @@ Esta aplicación permite:
 - Validar que el campo no esté vacío.
 - Mostrar los nombres ingresados en pantalla.
 - Realizar un sorteo aleatorio para elegir un amigo secreto.
-- (Opcional) Enviar el resultado por correo electrónico.
 
 ## 🚀 Funcionalidades
 
@@ -26,12 +25,12 @@ Esta aplicación permite:
 
 ## 🖼️ Capturas de pantalla
 
-_Agregar aquí imágenes del funcionamiento de la app:_
 - Vista inicial
+![Vista inicial](assets/captura-inicial.png)
 - Lista de nombres agregados
+![Lista con nombres](assets/captura-lista.png)
 - Resultado del sorteo
-
-![Ejemplo de captura](ruta/a/tu/imagen.png)
+![Resultado del sorteo](assets/captura-resultado.png)
 
 ## 🎥 Vista en acción
 
